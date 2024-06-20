@@ -46,5 +46,4 @@ http://localhost:3000/profile
 
 Note: if you get 401 error you may have to manually go to the login url again
 
-## Future Developments
-I would want to explore the possibility of deploying this on a website.
+
